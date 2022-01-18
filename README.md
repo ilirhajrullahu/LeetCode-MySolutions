@@ -1,2 +1,6 @@
-# LeetCode-MySolutions
-Collection of LeetCode questions and their solutions written by me to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+## LeetCode-MySolutions
+
+Collection of LeetCode questions and my solutions to ace the coding interview! 
+
+
+Created using [LeetHub](https://github.com/QasimWani/LeetHub)
